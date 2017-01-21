@@ -1,2 +1,2 @@
-# ferrari-node
+# ferrariworker-node
 Ferrari docker base image for Node.js
